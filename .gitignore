@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/Queue and Stack/Greedy load balance/out/
+/Topics/Queue and Stack/Greedy load balance/out/production/classes/
+/Topics/Queue and Stack/Html Parser/out/
+/Topics/Queue and Stack/Html Parser/out/production/classes/
+/Topics/Queue and Stack/Which brackets are balanced/out/
+/Topics/Queue and Stack/Which brackets are balanced/out/production/classes/
